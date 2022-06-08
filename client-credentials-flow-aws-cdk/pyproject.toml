@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "client-credentials-flow-aws-cdk"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+"aws-cdk.core" = "^1.150.0"
+"aws-cdk.aws-cognito" = "^1.150.0"
+"aws-cdk.aws-apigateway" = "^1.157.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
