@@ -1,9 +1,6 @@
 {
-  "name": "cognito-user-pool",
+  "name": "client-credentials-flow",
   "version": "0.1.0",
-  "bin": {
-    "cognito-user-pool": "bin/cognito-user-pool.js"
-  },
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
