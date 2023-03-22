@@ -1,0 +1,6 @@
+{
+  "hosted-zone:account=548754742764:domainName=awesome-cdk-examples.com:region=us-east-1": {
+    "Id": "/hostedzone/Z04491901AJOYW36491VV",
+    "Name": "awesome-cdk-examples.com."
+  }
+}
